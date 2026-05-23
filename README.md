@@ -106,11 +106,7 @@ If you want a specific route:
 - **$M_v = 2^{68}$**, Barina's verification bound (2020).
 - **$G = 3/(2\sqrt{2}) \approx 1.0607$**, Collatz geometric mean.
 
-## How to Cite
 
-If this framework is useful for your own work:
-
-> *Conditional reduction of the Collatz cycles conjecture to three independent open problems (Lang's conjecture for $\log_2 3$, the cascade-density hypothesis, or mod-8 ergodic stationarity). [Repository URL].*
 
 ## Standing on the Shoulders Of
 
@@ -129,10 +125,6 @@ The conditional proof under Conjecture A (Lang) has an additional rigidity cavea
 
 The near-identity $\varepsilon \approx 8.9 \times 10^{-5}$ is a numerical observation, not a theorem. By Schanuel's conjecture (and consistent with numerical evidence to high precision), $\varepsilon$ is a definite nonzero transcendental number. Its smallness organizes the proof architecture but is not itself a proof tool.
 
-## License
 
-[MIT / Apache 2.0 / CC-BY — choose appropriate]
-
----
 
 *Last updated: May 23, 2026.*
